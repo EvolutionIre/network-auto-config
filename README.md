@@ -1,6 +1,6 @@
 # Automated Network Device Configuration
 
-## 📌 Project Overview
+## Project Overview
 Modern networks often consist of dozens or hundreds of devices that require consistent configuration and regular updates. Manual configuration is error‑prone, time‑consuming, and difficult to audit.  
 
 This project provides a **fully automated workflow** to:
@@ -14,7 +14,7 @@ By combining Python, Netmiko, NAPALM, Jinja2, and Pandas, this solution demonstr
 
 ---
 
-## 🎯 Objectives & Achievements
+## Objectives & Achievements
 - **Automation of repetitive tasks** → Eliminate manual logins and CLI commands.
 - **Configuration consistency** → Apply template‑based configs across devices to enforce standards.
 - **Auditability** → Maintain backups and reports for compliance and troubleshooting.
@@ -24,7 +24,7 @@ By combining Python, Netmiko, NAPALM, Jinja2, and Pandas, this solution demonstr
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 - Python **3.10+**
 - Install required libraries:
   ```bash
